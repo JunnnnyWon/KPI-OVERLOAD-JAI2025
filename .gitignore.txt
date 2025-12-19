@@ -1,0 +1,14 @@
+# Visual Studio 临时文件
+.vs/
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# UE5 生成的工程文件
+*.sln
+*.xcodeproj
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
